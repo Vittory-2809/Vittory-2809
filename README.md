@@ -8,7 +8,8 @@ I'm a Statistics in Economics student. My projects blend **data analysis**, **vi
 - **Areas**: Statistical modeling, data visualization, econometrics
 
 ## What I'm Learning
-I'm diving deeper into [e.g., machine learning, econometric modeling, or advanced visualization] and working on new features.
+I'm delving into econometric modeling combined with programming. My goal is to make both sides of the puzzle look user-friendly, fun, and organized for consumers.
+I'm open to any guidance or suggestions! I'm still learning :D.
 
 ## Projects I worked/working on
 - Translation for Warcraft III modes in Visual Studio
