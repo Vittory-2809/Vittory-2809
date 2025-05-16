@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**Vittory-2809/Vittory-2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Statistics in Economics student. My projects blend **data analysis**, **visualization**, and **statistical modeling**.
 
-Here are some ideas to get you started:
+## Technical Skills
+- **Languages**: R, Python, SQL
+- **Tools**: RStudio, Excel
+- **Areas**: Statistical modeling, data visualization, econometrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Learning
+I'm diving deeper into [e.g., machine learning, econometric modeling, or advanced visualization] and working on new features.
+
+Thanks for visiting my profile! Feel free to reach me out if you want!
