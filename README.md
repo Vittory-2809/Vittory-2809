@@ -10,4 +10,9 @@ I'm a Statistics in Economics student. My projects blend **data analysis**, **vi
 ## What I'm Learning
 I'm diving deeper into [e.g., machine learning, econometric modeling, or advanced visualization] and working on new features.
 
-Thanks for visiting my profile! Feel free to reach me out if you want!
+## Projects I worked/working on
+Translation for Warcraft III modes in Visual Studio
+Translation for TurtleWoW in HeidiSQL
+Alimétrika in RStudio and Python
+
+##Thanks for visiting my profile! Feel free to reach me out if you want!
