@@ -1,6 +1,7 @@
 # Hi 👋
 
 I'm a Statistics in Economics student. My projects blend **data analysis**, **visualization**, and **statistical modeling**.
+I also have a degree in executive secretarial and languages.
 
 ## Technical Skills
 - **Languages**: R, Python, SQL
