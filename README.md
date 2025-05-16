@@ -16,4 +16,4 @@ I'm open to any guidance or suggestions! I'm still learning :D.
 - Translation for TurtleWoW in HeidiSQL
 - Alimétrika in RStudio and Python
 
-##Thanks for visiting my profile! Feel free to reach me out if you want!
+**Thanks for visiting my profile! Feel free to reach me out if you want!**
